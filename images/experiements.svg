@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="148mm"
+   height="210mm"
+   viewBox="0 0 148 210"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="experiements.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#16165a"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.0482005"
+     inkscape:cx="140.71735"
+     inkscape:cy="521.36972"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="1192"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4701" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Liquid" />
+  <g
+     inkscape:label="Reagenzglas"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4701"
+       transform="matrix(3.451535,0,0,3.451535,-289.8442,-140.516)">
+      <ellipse
+         style="fill:#0f75c9;fill-opacity:1;stroke:none;stroke-width:1.38319;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path3157"
+         cx="105.7626"
+         cy="90.901573"
+         rx="8.7083788"
+         ry="8.6768255" />
+      <rect
+         style="fill:#0f75c9;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4185"
+         width="17.850618"
+         height="19.120342"
+         x="96.801811"
+         y="71.307724"
+         ry="0" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.35979;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4320"
+         cx="109.79497"
+         cy="77.30262"
+         rx="1.7606066"
+         ry="1.7038128" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.53606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4320-8"
+         cx="103.01862"
+         cy="74.999313"
+         rx="1.9888334"
+         ry="1.9246775" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.15834;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4320-9"
+         cx="103.66544"
+         cy="83.928558"
+         rx="1.499776"
+         ry="1.4513961" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.931708;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4320-9-3"
+         cx="107.04678"
+         cy="89.639488"
+         rx="1.2063415"
+         ry="1.1674273" />
+      <path
+         id="rect1073"
+         style="fill:none;stroke:#ffffff;stroke-width:1.32292;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 94.946982,42.510418 h 21.214638 c 1.03825,0 1.8741,0.835848 1.8741,1.874098 0,1.038251 -0.83585,1.874099 -1.8741,1.874099 H 94.946982 c -1.03825,0 -1.874098,-0.835848 -1.874098,-1.874099 0,-1.03825 0.835848,-1.874098 1.874098,-1.874098 z m 1.854859,3.762725 v 43.3033 a 8.9400538,9.6382206 0 0 0 -0.01344,0.381889 8.9400538,9.6382206 0 0 0 0.01344,0.382405 v 0.08733 h 0.0031 a 8.9400538,9.6382206 0 0 0 8.923489,9.16895 8.9400538,9.6382206 0 0 0 8.924,-9.16895 h 0.007 v -0.214458 a 8.9400538,9.6382206 0 0 0 0.009,-0.255281 8.9400538,9.6382206 0 0 0 -0.009,-0.420129 v -43.26506 z" />
+    </g>
+  </g>
+</svg>
